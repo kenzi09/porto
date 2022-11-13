@@ -287,4 +287,22 @@ footer img {
     .a-nav{
         padding: 17px 10px;
     }
+
+    hr {
+        width: 100%;
+    }
+
+    .container pre {
+        font-size: 15px;
+    }
+
+    .div-wrap img {
+        width: 300px;
+    }
+
+    table {
+        width: 200px;
+        font-size: 15px;
+        height: 150px;
+    }
 }
